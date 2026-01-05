@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "titulo": "Conociendo los componentes internos de un ordenador",
+        "categoria": "Taller",
+        "fecha": "2026-02-03",
+        "lugar": "Aula Taller TIC",
+        "descripcion": "Identificación de componentes, montaje básico y errores comunes al crear un PC."
+    },
+    {
+        "id": 2,
+        "titulo": "Ciberseguridad en redes sociales",
+        "categoria": "Charla",
+        "fecha": "2026-02-05",
+        "lugar": "Salón de actos",
+        "descripcion": "Privacidad, estafas digitales y buenas prácticas para un uso seguro de redes sociales."
+    },
+    {
+        "id": 3,
+        "titulo": "Aprende a utilizar Git y GitHub profesionalmente",
+        "categoria": "Taller",
+        "fecha": "2026-02-08",
+        "lugar": "Aula Informática 2",
+        "descripcion": "Primer contacto con control de versiones y trabajo colaborativo en proyectos."
+    },
+    {
+        "id": 4,
+        "titulo": "Torneo de programación avanzada con Javascript",
+        "categoria": "Torneo",
+        "fecha": "2026-02-10",
+        "lugar": "Aula Multimedia",
+        "descripcion": "Competición amistosa con retos sencillos de lógica y programación."
+    },
+    {
+        "id": 5,
+        "titulo": "Introducción a la inteligencia artificial",
+        "categoria": "Charla",
+        "fecha": "2026-02-12",
+        "lugar": "Salón de actos",
+        "descripcion": "Conceptos básicos de IA y ejemplos reales en aplicaciones cotidianas."
+    },
+    {
+        "id": 6,
+        "titulo": "Diseño web con HTML y CSS, nivel iniciación",
+        "categoria": "Taller",
+        "fecha": "2026-02-15",
+        "lugar": "Aula Informática 1",
+        "descripcion": "Creación de páginas web sencillas con estructura y estilos básicos."
+    },
+    {
+        "id": 7,
+        "titulo": "Visita a empresa tecnológica del sector TIC",
+        "categoria": "Excursión",
+        "fecha": "2026-02-18",
+        "lugar": "Parque Tecnológico",
+        "descripcion": "Visita guiada para conocer el entorno laboral de una empresa del sector TIC."
+    },
+    {
+        "id": 8,
+        "titulo": "Salidas profesionales actuales en informática",
+        "categoria": "Charla",
+        "fecha": "2026-02-20",
+        "lugar": "Aula Magna",
+        "descripcion": "Perfiles profesionales, tecnologías más demandadas y consejos para el mercado laboral."
+    },
+    {
+        "id": 9,
+        "titulo": "Torneo de videojuegos competitivos, aprende y gana",
+        "categoria": "Torneo",
+        "fecha": "2026-02-22",
+        "lugar": "Sala Gaming",
+        "descripcion": "Competición organizada de videojuegos con normas y premios."
+    },
+    {
+        "id": 10,
+        "titulo": "Introducción a bases de datos para nuevos alumnos",
+        "categoria": "Taller",
+        "fecha": "2026-02-24",
+        "lugar": "Aula Informática 3",
+        "descripcion": "Conceptos básicos de bases de datos, tablas y consultas sencillas."
+    },
+    {
+        "id": 11,
+        "titulo": "Feria de tecnología e innovación 2026",
+        "categoria": "Excursión",
+        "fecha": "2026-02-27",
+        "lugar": "Recinto Ferial",
+        "descripcion": "Asistencia a una feria con demostraciones de nuevas tecnologías."
+    },
+    {
+        "id": 12,
+        "titulo": "Buenas prácticas en programación web",
+        "categoria": "Charla",
+        "fecha": "2026-03-01",
+        "lugar": "Aula Magna",
+        "descripcion": "Consejos sobre mantenimiento, organización de archivos y seguridad básica."
+    }
+]

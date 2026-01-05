@@ -1,0 +1,42 @@
+nav.navbar{
+  display: flex;
+  justify-content: center;
+}
+nav.navbar ul {
+  display: flex;
+  list-style: none;
+  gap: 15px;
+  margin-bottom: 0;
+  align-items: center;
+  padding: 0;
+}
+nav.navbar ul li a {
+  text-decoration: none;
+}
+a.active {
+  color:#000;
+}
+footer{
+  width: 100%;
+  background-color: #000;
+  position: fixed;
+  bottom: 0;
+  padding-top: 12px;
+  text-align: center;
+}
+.eventos, .pagina{
+  margin-bottom: 50px;
+}
+th.align-right, td.align-right {
+  text-align: right;
+}
+.card-body p span {
+  float: right;
+  text-align: right;
+}
+.pagina.centrada {
+    min-height: calc(100vh - 90px);
+    display: flex;
+    align-items: center;      
+    justify-content: center; 
+}
