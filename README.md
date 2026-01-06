@@ -29,7 +29,22 @@
 
 - **React**: Construcción de interfaz por componentes y gestión de estado con `useState` y `useEffect`.  
 - **Vite**: Configuración rápida y build optimizado.  
-- **CSS / Bootstrap**: Estilos de la aplicación.  
+- **CSS / Bootstrap**: Estilos de la aplicación.
+
+---
+
+## 🚀 Pasos para ejecutar el proyecto
+
+Clonar el repositorio:
+git clone https://github.com/angeland-ou/despliegue-de-aplicaciones-web-01
+
+Instalar dependencias:
+npm install
+
+Iniciar el servidor de desarrollo:
+npm run dev
+
+Abrir la aplicación en el navegador (generalmente en http://localhost:5173/)
 
 ---
 
@@ -37,7 +52,7 @@
 
 - **Lista de eventos**: Explora todos los eventos disponibles en tarjetas.  
 - **Buscar y filtrar**: Utiliza el buscador y el filtro por categoría para encontrar eventos específicos.  
-- **Ver detalle**: Haz clic en “Ver detalle” para conocer la información completa del evento.  
+- **Ver detalle**: Haz clic en “Ver evento” para conocer la información completa del evento.  
 - **Añadir a favoritos**: Pulsa el botón correspondiente; si el evento ya está en favoritos, el botón se desactiva y muestra “Ya en favoritos”.  
 - **Gestionar favoritos**: Visualiza todos tus eventos favoritos y quítalos si lo deseas.  
 
