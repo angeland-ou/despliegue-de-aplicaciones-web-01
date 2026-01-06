@@ -35,16 +35,17 @@
 
 ## 🚀 Pasos para ejecutar el proyecto
 
-Clonar el repositorio:
+- **Clonar el repositorio**:
 git clone https://github.com/angeland-ou/despliegue-de-aplicaciones-web-01
 
-Instalar dependencias:
+- **Instalar dependencias**:
 npm install
 
-Iniciar el servidor de desarrollo:
+- **Iniciar el servidor de desarrollo**:
 npm run dev
 
-Abrir la aplicación en el navegador (generalmente en http://localhost:5173/)
+- **Abrir la aplicación en el navegador**: 
+generalmente en http://localhost:5173/
 
 ---
 
